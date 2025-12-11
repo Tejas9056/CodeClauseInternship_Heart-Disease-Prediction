@@ -1,6 +1,8 @@
-#📌Heart Disease Prediction — CodeClause Internship Project
-This project was developed as part of the CodeClause Internship Program under the domain of Machine Learning.
-The goal of this project is to build a predictive ML model that assesses a person’s risk of heart disease based on medical input parameters.
+# ❤️ Heart Disease Prediction
+### CodeClause Machine Learning Internship – Main Project
+This project focuses on predicting the likelihood of heart disease using a machine learning model based on medical input parameters.  
+The goal is to assist in early diagnosis by providing a simple yet effective predictive system.
+
 
 🔥 Project Highlights
 Machine Learning model trained to predict heart disease risk
