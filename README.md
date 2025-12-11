@@ -24,7 +24,7 @@ Dataset: Heart Disease Dataset
 Metrics: Accuracy ~ (95%)
 🖥️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/YOUR-USERNAME/CodeClause-Heart-Disease-Prediction.git
+git clone https://github.com/Tejas9056/CodeClauseInternship_Heart-Disease-Prediction.git
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
